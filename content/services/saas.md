@@ -1,10 +1,11 @@
 ---
 description: ""
-featured_image: ""
+featured_image: "images/saas.png"
 tags: [service]
 title: "SaaS Contact Center Service"
+weight: 12
 ---
-Our SaaS (Software as a Service) Contact Center service in China is a cloud-based, multi-tenants offer for clients who need voice and SMS communication service in China. 
+Our SaaS (Software as a Service) Contact Center service in China is a cloud-based, multi-tenants offer for clients who need voice and SMS communication service in China. <!--more-->
 
 Due to strict spam monitoring and regulations on telco service terminating in China, service providers outside of the country hardly get proper access. Our service fully comply with the regulations of The Ministry of Industry and Information Technology of People’s Republic of China and can meet your specific needs.
 

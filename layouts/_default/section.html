@@ -2,10 +2,8 @@
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
   </article>
-  {{ $mainSections := default (slice "about") }}
-  {{/* Create a variable with that section to use in multiple places. */}}
+  {{ $mainSections := .Section }}
   {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-  {{/* Check to see if the section is defined for ranging through it */}}
   {{ $section_count := len $section }}
   {{ if ge $section_count 1 }}
     {{/* Derive the section name  */}}

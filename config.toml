@@ -1,7 +1,7 @@
 title = "Duyan Technologies"
 baseURL = "https://dy-en.netlify.app"
 languageCode = "en-us"
-theme = "ananke"
+theme = ""
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+summaryLength = 30
 
 [sitemap]
   changefreq = "monthly"

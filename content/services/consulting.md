@@ -1,11 +1,12 @@
 ---
 description: ""
-featured_image: ""
+featured_image: "images/consulting.png"
 tags: [service]
 title: "Technology Solution Consulting Service"
+weight: 10
 ---
 
-Through our vast experience and wealth of IT industry knowledge, Duyan will identify the solution you are looking for. Through technology evaluation, selection, design, and implementation, Duyan ensures that the solution you select meets both your needs and your budget.
+Through our vast experience and wealth of IT industry knowledge, Duyan will identify the solution you are looking for. Through technology evaluation, selection, design, and implementation, Duyan ensures that the solution you select meets both your needs and your budget. <!--more-->
 
 Architecture and Design
 ---
