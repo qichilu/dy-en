@@ -1,6 +1,6 @@
 ---
 description: ""
-featured_image: "images/banner3.png"
+featured_image: "images/banner4.png"
 tags: [service]
 title: "Cloud Service"
 weight: 4

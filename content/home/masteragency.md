@@ -1,6 +1,6 @@
 ---
 description: ""
-featured_image: ""
+featured_image: "images/masteragent.png"
 tags: [duyan]
 title: "A Master Agency"
 weight: 5

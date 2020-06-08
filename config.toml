@@ -10,6 +10,7 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 summaryLength = 30
+Copyright = "Duyan Technologies LLC, All Rights Reserved"
 
 [sitemap]
   changefreq = "monthly"
@@ -17,6 +18,7 @@ summaryLength = 30
   filename = "sitemap.xml"
 
 [params]
+  env = ""
   favicon = ""
   description = ""
   facebook = ""

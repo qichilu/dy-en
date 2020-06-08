@@ -1,6 +1,6 @@
 ---
 description: ""
-featured_image: ""
+featured_image: "images/provider.png"
 tags: [duyan]
 title: "A Managed Services Provider"
 weight: 10
